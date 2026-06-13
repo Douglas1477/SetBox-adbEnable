@@ -4,4 +4,4 @@ description=Simple module to enable Adb Debugging
 author=Douglas
 version=v1
 versionCode=1
-repository=
+repository=https://github.com/Douglas1477/SetBox-adbEnable/tree/main
