@@ -1,0 +1,7 @@
+id=adb_debbuging
+name=adb_debugging
+description=Simple module to enable Adb Debugging
+author=Douglas
+version=v1
+versionCode=1
+repository=
